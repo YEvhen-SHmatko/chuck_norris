@@ -1,0 +1,12 @@
+{
+  "name": "chuck_norris",
+  "displayName": "chuck_norris",
+  "expo": {
+    "name": "chuck_norris",
+    "slug": "chuck_norris",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
